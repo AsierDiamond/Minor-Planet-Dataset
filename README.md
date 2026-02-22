@@ -1,5 +1,5 @@
 # Minor-Planet-Dataset
-### All of the 25k Minor planets in a single json file!
+### All of the 25k named Minor planets in a single json file!
 
 This dataset has all of these fields for every body:
 
